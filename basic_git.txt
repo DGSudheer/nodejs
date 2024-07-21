@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m 'init'
+git remote add origin <URL i.e. git@github.com:<username>/<repo>>
+git push origin HEAD
